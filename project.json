@@ -1,0 +1,24 @@
+{
+    "projectName": "agama-securitykey",
+    "description": "Agama SecurityKey",
+    "type": "community",
+    "author": "Milton-Ch",
+    "version": "1.0.0",
+    "authorWebsite": "https://github.com/rizarsyi/stunning-octo-telegram",
+    "githubUri": "https://github.com/rizarsyi/stunning-octo-telegram",
+    "license": "apache-2.0",
+    "lastUpdated": "1702003814706",
+    "tags": [
+        "usb",
+        "authentication",
+        "fido",
+        "fido2",
+        "securitykey"
+    ],
+    "noDirectLaunch": [],
+    "configs": {
+        "io.jans.agama.securitykey.fidoAuthn": {},
+        "io.jans.agama.securitykey.main": {}
+    },
+    "name": "agama-securitykey"
+}
